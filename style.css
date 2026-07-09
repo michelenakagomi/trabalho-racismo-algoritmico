@@ -762,11 +762,9 @@ code {
 }
 
 .nav-button {
-  background: #ff8666;
-  color: #21182c !important;
+  color: #fff;
   padding: 10px 16px;
   border-radius: 999px;
-  font-weight: 800;
   text-decoration: none;
   transition: 0.2s ease;
 }
