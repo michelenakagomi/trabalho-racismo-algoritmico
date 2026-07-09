@@ -1,0 +1,23 @@
+{
+  "name": "Dataficação e Racismo Algorítmico na IA Generativa",
+  "short_name": "IA e Raça",
+  "description": "Produto web sobre dataficação, racismo algorítmico e imagens geradas por IA.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7efe7",
+  "theme_color": "#1d1a2f",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
