@@ -698,7 +698,7 @@ code {
 
 .pdf-section {
   width: min(1220px, calc(100% - 32px));
-  margin: 72px auto 0;
+  margin: 72px auto 110px;
   padding: clamp(32px, 6vw, 64px);
   border-radius: 32px;
   background: linear-gradient(135deg, #241c2f, #46315f);
