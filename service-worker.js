@@ -7,7 +7,8 @@ const CORE_ASSETS = [
   './manifest.json',
   './assets/hero-pattern.svg',
   './assets/icons/icon-192.png',
-  './assets/icons/icon-512.png'
+  './assets/icons/icon-512.png',
+  './arquivos/revisao-bibliografica.pdf'
 ];
 
 self.addEventListener('install', (event) => {
