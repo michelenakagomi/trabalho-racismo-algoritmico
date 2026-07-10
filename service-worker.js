@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ia-racismo-algoritmico-v1';
+const CACHE_NAME = 'ia-racismo-algoritmico-final';
 const CORE_ASSETS = [
   './',
   './index.html',
